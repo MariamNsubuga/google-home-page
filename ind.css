@@ -113,8 +113,9 @@ img{
     text-align: center;
    
 }
- .links {
-    line-height: 30px;
+.links {
+    line-height: 45px;
+    display: inline-block;
 }
 
 html,body{
