@@ -68,6 +68,9 @@ body
 }
 #voice{
     right:10px;
+   width:5px;
+   height:5px;
+
 }
 #searchbar{
     padding-top:10px;
@@ -106,8 +109,8 @@ body
     text-align: center;
    
 }
-#links, .links {
-    word-spacing: 30px;
+ .links {
+    line-height: 30px;
 }
 
 html,body{
