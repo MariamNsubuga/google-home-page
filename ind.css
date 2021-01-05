@@ -32,7 +32,10 @@ body
     height: 20px;
      
 }
-
+img{
+    width:80%;
+    height:80%;
+}
 #middle {
     #margin-top: 300px;
     flex-grow: 1;
@@ -66,9 +69,11 @@ body
 #search{
     left:10px;
 }
-#voice{
+#voice,#img{
     right:10px;
-   
+    width:20px;
+    height:20px;
+    top:10px;
 
 }
 #searchbar{
